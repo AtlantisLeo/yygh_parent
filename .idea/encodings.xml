@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/coder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/rabbit_util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/service_utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hospital-manage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_cmn/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_hosp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_statistics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/service_user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_client/service_cmn_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_client/service_hosp_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_client/service_order_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_client/service_user_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
